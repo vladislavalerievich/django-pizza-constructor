@@ -1,4 +1,4 @@
-Django==3
+Django==3.1.14
 gunicorn==20
 whitenoise==5
 django-heroku
